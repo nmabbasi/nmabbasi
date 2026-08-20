@@ -15,8 +15,8 @@
 I am a Computational Biologist dedicated to bridging the gap between raw sequencing data and actionable biological insights. Recently completing my PhD at the Université de Bordeaux / CNRS, my research focuses on resolving cellular heterogeneity in Sézary Syndrome using advanced single-cell multi-omics (scRNA-seq, scATAC-seq, CITE-seq).
 
 *   🔭 **Currently working on:** Publishing high-impact findings on the malignant states and metabolic vulnerabilities of Sézary Syndrome.
-*   🌱 **My toolkit:** R, Python, Seurat, Scanpy, Bash, Slurm HPC, Nextflow, and Snakemake.
-*   👯 **I'm looking to collaborate on:** Spatial transcriptomics, immune repertoire tracking, and translational bioinformatics projects.
+*   🔭 **My toolkit:** R, Python, Seurat, Scanpy, Bash, Slurm HPC, Nextflow, and Snakemake.
+*   👬 **I'm looking to collaborate on:** Spatial transcriptomics, immune repertoire tracking, and translational bioinformatics projects.
 *   🎓 **Creator of:** [The Omics Hub](https://theomicshub.com), an extensive, free tutorial platform for mastering HPC and scRNA-seq workflows.
 
 ### 🛠️ Core Tech Stack
