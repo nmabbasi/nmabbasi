@@ -1,4 +1,4 @@
-### Hi there, I'm Nasir Mahmood Abbasi 👋
+### Hi there, I'm Nasir Mahmood Abbasi, PhD 👋
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=200&section=header&text=Computational%20Biologist%20%7C%20Single-Cell%20Transcriptomics&fontSize=30&fontColor=ffffff" />
