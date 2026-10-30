@@ -1,7 +1,7 @@
 # Nasir Mahmood Abbasi, PhD
 
 <p align="center">
-  <b>Computational Biologist</b> • Single-Cell & Spatial Multi-Omics • Workflow Orchestration
+  <b>Computational Biologist</b> | Single-Cell & Spatial Multi-Omics | Workflow Orchestration
   <br>
   <b>Open to New Opportunities</b> (Postdoctoral Fellowships, Scientist, and Computational Biology Roles)
 </p>
