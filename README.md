@@ -1,60 +1,53 @@
-### Hi there, I'm Nasir Mahmood Abbasi, PhD 👋
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=200&section=header&text=Computational%20Biologist%20%7C%20Single-Cell%20Transcriptomics&fontSize=30&fontColor=ffffff" />
-</div>
+# Nasir Mahmood Abbasi, PhD
 
 <p align="center">
-  <b>PhD in Bioinformatics</b> • Computational Biologist • <b>Open to New Opportunities</b>
+  <b>Computational Biologist</b> • Single-Cell & Spatial Multi-Omics • Workflow Orchestration
   <br>
-  Seeking Postdoctoral, Scientist, or Computational Biology roles in genomics and oncology.
+  <b>Open to New Opportunities</b> (Postdoctoral Fellowships, Scientist, and Computational Biology Roles)
+</p>
+
+<p align="center">
+  <a href="https://nmabbasi.github.io/"><img src="https://img.shields.io/badge/Portfolio-nmabbasi.github.io-0284c7?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/nmabbasi/"><img src="https://img.shields.io/badge/LinkedIn-nmabbasi-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://orcid.org/0009-0005-0083-1984"><img src="https://img.shields.io/badge/ORCID-0009--0005--0083--1984-a6ce39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="mailto:nmabbasi@gmail.com"><img src="https://img.shields.io/badge/Email-nmabbasi%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Status-Open_to_Opportunities-10b981?style=flat-square" alt="Status"></a>
 </p>
 
 ---
 
-### 🧬 About Me
+### Research Background & Target Roles
 
-I'm a Computational Biologist focusing on single-cell multi-omics (scRNA-seq, scATAC-seq, CITE-seq) and translational bioinformatics. I completed my PhD at the Université de Bordeaux / CNRS, where I studied cellular heterogeneity, malignant T-cell states, and metabolic vulnerabilities in Sézary Syndrome. I am currently seeking new opportunities across academia and industry.
+I'm a Computational Biologist focusing on single-cell multi-omics (scRNA-seq, scATAC-seq, CITE-seq) and translational cancer biology. I completed my PhD at the Université de Bordeaux / CNRS, investigating cellular heterogeneity, malignant T-cell states, and metabolic vulnerabilities in Sézary Syndrome. I am currently seeking new opportunities across academia and industry.
 
-* 💼 **Actively seeking:** Postdoc, Scientist, or Senior Bioinformatics roles in single-cell genomics, cancer immunology, and translational medicine.
-* 🔭 **Current focus:** Finalizing manuscripts on Sézary Syndrome T-cell heterogeneity and metabolic vulnerabilities.
-* 🌱 **My toolkit:** R, Python, Bash, Slurm, Seurat, Scanpy, Nextflow, Snakemake
-* 👯 **I'm looking to collaborate on:** Single-cell RNA-seq (scRNA-seq), spatial transcriptomics, immune repertoire profiling, and translational bioinformatics projects.
-* 🎓 **Author of:** [HPC Guide](https://nmabbasi.github.io/HPC/), a hands-on resource for cluster navigation, Slurm scripts, environment setup, and troubleshooting.
-
-### 🛠️ Core Tech Stack
-
-<p align="center">
-  <a href="https://www.r-project.org/">
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="https://img.shields.io/badge/Bash_&_HPC-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  </a>
-  <a href="https://satijalab.org/seurat/">
-    <img src="https://img.shields.io/badge/Seurat_&_Scanpy-8A2BE2?style=for-the-badge" alt="Seurat/Scanpy" />
-  </a>
-  <a href="https://nextflow.io/">
-    <img src="https://img.shields.io/badge/Nextflow-1E2B3C?style=for-the-badge&logo=nextflow&logoColor=white" alt="Nextflow" />
-  </a>
-  <a href="https://snakemake.github.io/">
-    <img src="https://img.shields.io/badge/Snakemake-009688?style=for-the-badge" alt="Snakemake" />
-  </a>
-</p>
-
-### 🔬 Featured Repositories
-
-* **[OmicsFlow-BulkRNAseq](https://github.com/nmabbasi/OmicsFlow-BulkRNAseq):** Automated bulk RNA-seq pipeline with parallel Nextflow DSL2 and Snakemake implementations.
-* **[Snakemake-PacBio-Assembly](https://github.com/nmabbasi/Snakemake-PacBio-Assembly):** Automated workflow for *de novo* genome assembly and targeted reassembly using Hifiasm and SPAdes.
-* **[HPC Guide](https://github.com/nmabbasi/HPC):** Practical cluster computing guide covering Slurm batch scripts, environment isolation, storage management, and troubleshooting.
+- 💼 **Looking for:** Postdoctoral Fellowships, Computational Biologist, or Senior Bioinformatics roles across genomics, oncology, immunology, and translational medicine.
+- 🔬 **Primary Expertise:** Single-cell transcriptomics, trajectory inference, batch correction with Harmony, and reproducible pipeline orchestration on HPC clusters.
+- 🤝 **Collaboration Interests:** Single-cell RNA-seq (scRNA-seq), spatial transcriptomics, immune repertoire profiling, and translational cancer genomics.
+- 📖 **Author:** [HPC & Slurm Guide](https://nmabbasi.github.io/HPC/), a hands-on guide for cluster navigation, Slurm scripts, and environment isolation.
 
 ---
 
-<p align="center">
-  <a href="https://nmabbasi.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-nmabbasi.github.io-blue?style=for-the-badge" alt="Portfolio" />
-  </a>
-</p>
+### Technical Toolkit
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages & Core** | R, Python, Bash / Linux shell, Git, SQL |
+| **Single-Cell & Spatial** | Seurat (v5), Scanpy, Harmony, scDblFinder, Monocle3, PAGA, decoupleR, LIANA |
+| **Pipeline Engines** | Nextflow (DSL2), Snakemake, Conda / Mamba, Docker |
+| **Genomics & Sequencing** | Cell Ranger (Flex & Multi), HISAT2, fastp, featureCounts, Hifiasm, BUSCO, SPAdes |
+| **HPC & Compute** | Slurm Workload Manager, SSH / MobaXterm, cluster environment modules |
+
+---
+
+### Selected Open-Source Repositories
+
+- **[OmicsFlow-BulkRNAseq](https://github.com/nmabbasi/OmicsFlow-BulkRNAseq)**: Dual-engine (Nextflow DSL2 and Snakemake) bulk RNA-seq pipeline with parallel SLURM execution and MultiQC reporting.
+- **[Snakemake-PacBio-Assembly](https://github.com/nmabbasi/Snakemake-PacBio-Assembly)**: Automated workflow for *de novo* genome assembly and targeted locus reassembly of PacBio HiFi reads.
+- **[HPC Guide](https://github.com/nmabbasi/HPC)**: Documentation-first guide for secure cluster access, batch job templates, memory allocation, and storage hygiene.
+- **[Academic Portfolio](https://github.com/nmabbasi/nmabbasi.github.io)**: Source code for my academic dossier and curriculum vitae hosted on GitHub Pages.
+
+---
+
+### Connect
+
+Feel free to reach out via [Email](mailto:nmabbasi@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/nmabbasi/) to discuss potential roles, research collaborations, or bioinformatics pipeline development.
