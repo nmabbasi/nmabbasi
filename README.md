@@ -12,12 +12,12 @@
 
 ### 🧬 About Me
 
-I am a Computational Biologist dedicated to bridging the gap between raw sequencing data and actionable biological insights. Recently completing my PhD at the Université de Bordeaux / CNRS, my research focuses on resolving cellular heterogeneity in Sézary Syndrome using advanced single-cell multi-omics (scRNA-seq, scATAC-seq, CITE-seq).
+I'm a Computational Biologist focusing on single-cell multi-omics (scRNA-seq, scATAC-seq, CITE-seq) and translational bioinformatics. I completed my PhD at the Université de Bordeaux / CNRS, where I studied cellular heterogeneity, malignant T-cell states, and metabolic vulnerabilities in Sézary Syndrome.
 
-*   🔭 **Currently working on:** Publishing high-impact findings on the malignant states and metabolic vulnerabilities of Sézary Syndrome.
-*   🔭 **My toolkit:** R, Python, Seurat, Scanpy, Bash, Slurm HPC, Nextflow, and Snakemake.
-*   👬 **I'm looking to collaborate on:** Spatial transcriptomics, immune repertoire tracking, and translational bioinformatics projects.
-*   🎓 **Creator of:** [The Omics Hub](https://theomicshub.com), an extensive, free tutorial platform for mastering HPC and scRNA-seq workflows.
+* 🔭 **Current work:** Finalizing papers on malignant cell states and metabolic targets in cutaneous T-cell lymphoma.
+* 🌱 **My toolkit:** R, Python, Bash, Slurm, Seurat, Scanpy, Nextflow, Snakemake
+* 👯 **I'm looking to collaborate on:** Single-cell RNA-seq (scRNA-seq), spatial transcriptomics, immune repertoire profiling, and translational bioinformatics projects.
+* 🎓 **Author of:** [HPC Guide](https://nmabbasi.github.io/HPC/), a hands-on resource for cluster navigation, Slurm scripts, environment setup, and troubleshooting.
 
 ### 🛠️ Core Tech Stack
 
@@ -44,9 +44,9 @@ I am a Computational Biologist dedicated to bridging the gap between raw sequenc
 
 ### 🔬 Featured Repositories
 
-*   **[OmicsFlow-scRNAseq](https://github.com/nmabbasi/OmicsFlow-scRNAseq):** A production-ready, highly parameterized pipeline for end-to-end single-cell RNA-seq processing on HPC clusters.
-*   **[OmicsFlow-BulkRNAseq](https://github.com/nmabbasi/OmicsFlow-BulkRNAseq):** A robust bulk RNA-seq workflow utilizing FastQC, HISAT2, and featureCounts.
-*   **[The Omics Hub (Repo)](https://github.com/nmabbasi/OmicsHub):** The codebase for my educational portal covering command-line basics, Conda environment management, and advanced trajectory inference.
+* **[OmicsFlow-BulkRNAseq](https://github.com/nmabbasi/OmicsFlow-BulkRNAseq):** Automated bulk RNA-seq pipeline with parallel Nextflow DSL2 and Snakemake implementations.
+* **[Snakemake-PacBio-Assembly](https://github.com/nmabbasi/Snakemake-PacBio-Assembly):** Automated workflow for *de novo* genome assembly and targeted reassembly using Hifiasm and SPAdes.
+* **[HPC Guide](https://github.com/nmabbasi/HPC):** Practical cluster computing guide covering Slurm batch scripts, environment isolation, storage management, and troubleshooting.
 
 ---
 
@@ -54,7 +54,4 @@ I am a Computational Biologist dedicated to bridging the gap between raw sequenc
   <a href="https://nmabbasi.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-nmabbasi.github.io-blue?style=for-the-badge" alt="Portfolio" />
   </a>
-</p>
-<p align="center">
-  <i>"Transforming data into discovery."</i>
 </p>
