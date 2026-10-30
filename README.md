@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <b>PhD in Bioinformatics</b> | Creator of <a href="https://theomicshub.com">The Omics Hub</a> | Specializing in single-cell transcriptomics, tumor microenvironment immunology, and scalable bioinformatics pipelines.
+  <b>PhD in Bioinformatics</b> | Specializing in single-cell transcriptomics, tumor microenvironment immunology, and scalable bioinformatics pipelines.
 </p>
 
 ---
