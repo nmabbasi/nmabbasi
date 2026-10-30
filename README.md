@@ -5,16 +5,19 @@
 </div>
 
 <p align="center">
-  <b>PhD in Bioinformatics</b> | Specializing in single-cell transcriptomics, tumor microenvironment immunology, and scalable bioinformatics pipelines.
+  <b>PhD in Bioinformatics</b> • Computational Biologist • <b>Open to New Opportunities</b>
+  <br>
+  Seeking Postdoctoral, Scientist, or Computational Biology roles in genomics and oncology.
 </p>
 
 ---
 
 ### 🧬 About Me
 
-I'm a Computational Biologist focusing on single-cell multi-omics (scRNA-seq, scATAC-seq, CITE-seq) and translational bioinformatics. I completed my PhD at the Université de Bordeaux / CNRS, where I studied cellular heterogeneity, malignant T-cell states, and metabolic vulnerabilities in Sézary Syndrome.
+I'm a Computational Biologist focusing on single-cell multi-omics (scRNA-seq, scATAC-seq, CITE-seq) and translational bioinformatics. I completed my PhD at the Université de Bordeaux / CNRS, where I studied cellular heterogeneity, malignant T-cell states, and metabolic vulnerabilities in Sézary Syndrome. I am currently seeking new opportunities across academia and industry.
 
-* 🔭 **Current work:** Finalizing papers on malignant cell states and metabolic targets in cutaneous T-cell lymphoma.
+* 💼 **Actively seeking:** Postdoc, Scientist, or Senior Bioinformatics roles in single-cell genomics, cancer immunology, and translational medicine.
+* 🔭 **Current focus:** Finalizing manuscripts on Sézary Syndrome T-cell heterogeneity and metabolic vulnerabilities.
 * 🌱 **My toolkit:** R, Python, Bash, Slurm, Seurat, Scanpy, Nextflow, Snakemake
 * 👯 **I'm looking to collaborate on:** Single-cell RNA-seq (scRNA-seq), spatial transcriptomics, immune repertoire profiling, and translational bioinformatics projects.
 * 🎓 **Author of:** [HPC Guide](https://nmabbasi.github.io/HPC/), a hands-on resource for cluster navigation, Slurm scripts, environment setup, and troubleshooting.
